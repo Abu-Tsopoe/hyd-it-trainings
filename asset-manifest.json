@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/hyderabad-it-trainings/static/css/main.69c184a9.css",
+    "main.js": "/hyderabad-it-trainings/static/js/main.c4c75551.js",
+    "static/js/453.77df89b1.chunk.js": "/hyderabad-it-trainings/static/js/453.77df89b1.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/hyderabad-it-trainings/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/hyderabad-it-trainings/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/placement 5.jpg": "/hyderabad-it-trainings/static/media/placement 5.6c80f61bf5b374f31071.jpg",
+    "static/media/placement 6.jpg": "/hyderabad-it-trainings/static/media/placement 6.aab167c714e79a096842.jpg",
+    "static/media/PLACEMENT 3.jpg": "/hyderabad-it-trainings/static/media/PLACEMENT 3.5b8441f7d66023fa364d.jpg",
+    "static/media/placement 1.jpg": "/hyderabad-it-trainings/static/media/placement 1.b909dbcce76b889b4faf.jpg",
+    "static/media/PLACEMENT 4.jpg": "/hyderabad-it-trainings/static/media/PLACEMENT 4.3d4a1bcb8268c5204eb8.jpg",
+    "static/media/placement 2.jpg": "/hyderabad-it-trainings/static/media/placement 2.8d094296e0fa0947ed75.jpg",
+    "static/media/home logo 2.jpg": "/hyderabad-it-trainings/static/media/home logo 2.3e1f105219d564e7d090.jpg",
+    "static/media/home logo 1.jpg": "/hyderabad-it-trainings/static/media/home logo 1.ee6911bde2ea48ff0851.jpg",
+    "static/media/home logo 3.jpg": "/hyderabad-it-trainings/static/media/home logo 3.399e3aaee8e56aa668c5.jpg",
+    "static/media/admin.jpg": "/hyderabad-it-trainings/static/media/admin.c12d2bd3a0835f13f256.jpg",
+    "static/media/about2.jpg": "/hyderabad-it-trainings/static/media/about2.aefc4744d8a46857dc20.jpg",
+    "static/media/about1.jpg": "/hyderabad-it-trainings/static/media/about1.53ac058673935ce65ef9.jpg",
+    "static/media/error img.avif": "/hyderabad-it-trainings/static/media/error img.816ebce4f43699aede52.avif",
+    "index.html": "/hyderabad-it-trainings/index.html",
+    "main.69c184a9.css.map": "/hyderabad-it-trainings/static/css/main.69c184a9.css.map",
+    "main.c4c75551.js.map": "/hyderabad-it-trainings/static/js/main.c4c75551.js.map",
+    "453.77df89b1.chunk.js.map": "/hyderabad-it-trainings/static/js/453.77df89b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69c184a9.css",
+    "static/js/main.c4c75551.js"
+  ]
+}
