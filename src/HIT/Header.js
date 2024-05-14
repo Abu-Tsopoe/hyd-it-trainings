@@ -5,7 +5,7 @@ function Header(){
     return(
         <div className="container-fluid header px-5">
             <nav className="navbar navbar-expand-lg  ">
-            <NavLink to="" className="navbar-brand">
+            <NavLink to="/" className="navbar-brand">
                 <img src={logo} alt=""/>
             </NavLink>
             <button className="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#menu"><span className="navbar-toggler-icon"></span></button>
