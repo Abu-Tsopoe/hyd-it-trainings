@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hyderabad-it-trainings/static/css/main.69c184a9.css",
-    "main.js": "/hyderabad-it-trainings/static/js/main.c4c75551.js",
+    "main.js": "/hyderabad-it-trainings/static/js/main.ae566d94.js",
     "static/js/453.77df89b1.chunk.js": "/hyderabad-it-trainings/static/js/453.77df89b1.chunk.js",
     "static/media/bootstrap-icons.woff?": "/hyderabad-it-trainings/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/hyderabad-it-trainings/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
@@ -20,11 +20,11 @@
     "static/media/error img.avif": "/hyderabad-it-trainings/static/media/error img.816ebce4f43699aede52.avif",
     "index.html": "/hyderabad-it-trainings/index.html",
     "main.69c184a9.css.map": "/hyderabad-it-trainings/static/css/main.69c184a9.css.map",
-    "main.c4c75551.js.map": "/hyderabad-it-trainings/static/js/main.c4c75551.js.map",
+    "main.ae566d94.js.map": "/hyderabad-it-trainings/static/js/main.ae566d94.js.map",
     "453.77df89b1.chunk.js.map": "/hyderabad-it-trainings/static/js/453.77df89b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69c184a9.css",
-    "static/js/main.c4c75551.js"
+    "static/js/main.ae566d94.js"
   ]
 }
