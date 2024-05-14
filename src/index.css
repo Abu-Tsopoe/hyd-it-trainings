@@ -1,0 +1,150 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.header{
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background-color: white;
+  }
+  .navbar-nav a:hover{
+    color: yellow;
+  }
+  .about p{
+    text-align: justify;
+  }
+  .register h4{
+    text-align: center;
+  }
+  .register .form-title{
+    background-color: #285803;
+    color: white;
+    border-radius: 5px 5px 0px 0px;
+  }
+  .register button, .student-registration button, .enquiry button{
+    background-color: #ffc600;
+    color: white;
+  }
+  .register button:hover, .student-registration button:hover, .enquiry button:hover{
+    background-color: #07294d;
+    color: #ffc600;
+  }
+  
+  .courses .card{
+    overflow: hidden;
+  }
+  .courses .card img{
+    transition-duration: 1s;
+  }
+  .courses .card img:hover{
+    transform: scale(1.1);
+  }
+  .card-body{
+    text-align: center;
+  }
+  .table a{
+    text-decoration: none;
+    color: red;
+  }
+  h1{
+    text-align: center;
+  }
+  .students-review div{
+    text-align: justify;
+    
+  }
+  .students-review h6{
+    text-align: right;
+    padding: 10px;
+    border-bottom: 2px dashed #b3b3b3;
+  }
+   
+  .footer-1{
+    background-color: #3a8106;
+    color: white;
+  }
+  .footer-1 p, li{
+    text-align: justify;
+    line-height: 28px;
+  }
+  .footer-1 ul{
+   list-style: none;
+  }
+  .footer-1 i{
+    color: yellow;
+  }
+  .footer-1 .address i, .contact i, .enquiry i{
+    padding-right: 10px;
+  }
+  .footer-2{
+    background-color: #285803;
+    color: white;
+  }
+  .footer-2 .design{
+    text-align: right;
+  }
+  .admin-login, .student-registration, .enquiry, .add-batches, .add-courses{
+    background-color: #edf0f2;
+  }
+  .dashboard aside button{
+    width: 100%;
+    height: 50px;
+    background-color: #3a8106;
+    border: none;
+    color: white;
+    margin-bottom: 10px;
+  }
+  .dashboard aside button:hover{
+    background-color: green;
+    color:white;
+
+  }
+  .dashboard aside{
+    padding-right: 10px;
+    border-right: 1px solid rgb(198, 195, 195);
+  }
+  .courses a {
+    text-decoration: none;
+    color: black;
+  }
+  .courses a:hover{
+    color: green;
+  }
+  .course-details p{
+text-align: justify;
+  }
+  .news{
+    overflow: hidden;
+    white-space: nowrap;
+    display: flex;
+   
+  }
+  .news .title{  
+    margin: 0;
+    height: 40px; 
+    position: relative;
+    z-index: 200;
+    display: flex;
+    align-items: center;
+  }
+  .news .content{  
+    margin: 0;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    animation: slide 20s infinite linear;
+  }
+  @keyframes slide{
+    from{
+      transform: translateX(50%);
+    }
+    to{
+      transform: translateX(-100%);
+    }
+  }
+ 
+
+
+
+  
